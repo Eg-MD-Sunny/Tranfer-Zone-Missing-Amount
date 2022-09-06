@@ -1,3 +1,7 @@
+-----|| 1st Part
+-----|| Name: Transfer Zone Missing Amounts and Products Details
+
+
 ----====================================================-----
 select Max(te.ThingId) [MaximumThingID],
        Min(te.ThingId) [MinimumThingID]
